@@ -5,16 +5,20 @@ This project is a comprehensive React (TypeScript) dashboard for exploring and 
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](docs/screenshots/Dashboard.png)
+<img width="1429" height="929" alt="Dashboard" src="https://github.com/user-attachments/assets/7e6edd80-7d05-4645-9ddd-e4e281497d9b" />
+
 
 ### Vulnerabilities
-![Vulnerabilities](docs/screenshots/Vulnerability.png)
+<img width="1420" height="918" alt="Vulnerability" src="https://github.com/user-attachments/assets/657cd2f5-f28f-4f59-96cb-ba55cd4a6b9b" />
+
 
 ### Vulnerability Detail
-![Vulnerabilities](docs/screenshots/VulnerabilityDetails.png)
+<img width="1404" height="927" alt="VulnerabilityDetails" src="https://github.com/user-attachments/assets/e2e7bbed-b27c-4cf2-9d81-490890a9b3b3" />
+
 
 ### Compare View
-![Compare](docs/screenshots/Compare.png)
+![Uploading Compare.png…]()
+
 
 ### Data handling
 
