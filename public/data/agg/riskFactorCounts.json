@@ -1,0 +1,15 @@
+{
+  "Attack complexity: low": 144929,
+  "Attack vector: network": 175691,
+  "Has fix": 193926,
+  "High severity": 45841,
+  "Medium severity": 127993,
+  "DoS - High": 99666,
+  "Remote execution": 13325,
+  "DoS - Low": 45071,
+  "Recent vulnerability": 22281,
+  "Exploit exists - POC": 11544,
+  "Exploit exists - in the wild": 2668,
+  "Critical severity": 1773,
+  "Package in use": 28859
+}

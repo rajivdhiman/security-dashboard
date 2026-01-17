@@ -1,0 +1,8 @@
+{
+  "datasetName": "ui_demo",
+  "generatedAt": "2026-01-16T17:58:15.329Z",
+  "chunkSize": 2000,
+  "totalRows": 236656,
+  "totalChunks": 119,
+  "chunkFormat": "jsonl"
+}
