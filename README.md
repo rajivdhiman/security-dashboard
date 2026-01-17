@@ -2,7 +2,24 @@
 
 This project is a comprehensive React (TypeScript) dashboard for exploring and analysing software package vulnerabilities at scale.  It consumes a large JSON data set (300 MB+) containing vulnerability metadata (CVE IDs, severity scores, risk factors, timestamps, package details, etc.) and provides a rich, interactive UI for analysing that data.  The goal is to visualise risk, filter and sort vulnerabilities easily, and perform ad‑hoc analyses such as comparing two CVEs or exporting filtered results.
 
-## Features
+## 📸 Screenshots
+
+### Dashboard
+<img width="1429" height="929" alt="Dashboard" src="https://github.com/user-attachments/assets/7e6edd80-7d05-4645-9ddd-e4e281497d9b" />
+
+
+### Vulnerabilities
+<img width="1420" height="918" alt="Vulnerability" src="https://github.com/user-attachments/assets/657cd2f5-f28f-4f59-96cb-ba55cd4a6b9b" />
+
+
+### Vulnerability Detail
+<img width="1404" height="927" alt="VulnerabilityDetails" src="https://github.com/user-attachments/assets/e2e7bbed-b27c-4cf2-9d81-490890a9b3b3" />
+
+
+### Compare View
+<img width="1402" height="929" alt="Compare" src="https://github.com/user-attachments/assets/b712c9ca-dd15-4993-9611-bfbb7214f324" />
+
+
 
 ### Data handling
 
