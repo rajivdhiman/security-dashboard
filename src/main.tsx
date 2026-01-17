@@ -7,7 +7,7 @@ import {createTheme, CssBaseline, ThemeProvider} from "@mui/material";
 import {router} from "./app/router";
 import {store} from "./store/store";
 import {queryClient} from "./data/queryClient";
-import { PageLoader } from "./components/layout/pageLoader.tsx";
+import {PageLoader} from "./components/layout/pageLoader.tsx";
 
 const theme = createTheme({
     palette: {

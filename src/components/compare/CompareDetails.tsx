@@ -20,7 +20,7 @@ function dateOnly(v?: string) {
     return v ? v.slice(0, 10) : "—";
 }
 
-function fmt(v: any) {
+function fmt(v: unknown) {
     if (v === null || v === undefined || v === "") return "—";
     return String(v);
 }
