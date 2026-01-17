@@ -75,7 +75,7 @@ export default function TrendChart() {
                                 }}
                             />
                             <Tooltip
-                                formatter={(value: number) => [value.toLocaleString(), 'Vulnerabilities']}
+                                formatter={(value) => [`${value?.toLocaleString()}`]}
                                 labelFormatter={(label) => {
                                     const item = chartData.find(d => d.month === label);
                                     return item?.fullMonth || label;

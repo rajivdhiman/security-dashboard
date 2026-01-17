@@ -1,4 +1,4 @@
-import Grid from "@mui/material/Grid";
+import Grid from '@mui/material/GridLegacy';
 import {Box} from "@mui/material";
 import KpiCards from "../components/dashboard/kpiCards.tsx";
 import SeverityChart from "../components/dashboard/SeverityChart";
@@ -63,7 +63,7 @@ export default function DashboardPage() {
                 {/* Both cards shown: 2 columns layout with preferences on the side */}
                 {showBothCards && (
                     <>
-                        <Grid item xs={12} lg={4}>
+                        <Grid item xs={12} lg={4} >
                             <DashboardPreferences />
                         </Grid>
                         <Grid item xs={12} lg={4}>

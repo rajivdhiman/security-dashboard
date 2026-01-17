@@ -1,4 +1,4 @@
-import Grid from "@mui/material/Grid";
+import Grid from '@mui/material/GridLegacy';
 import {Box, Card, CardContent, Skeleton, Typography} from "@mui/material";
 import BugReportIcon from '@mui/icons-material/BugReport';
 import ErrorIcon from '@mui/icons-material/Error';

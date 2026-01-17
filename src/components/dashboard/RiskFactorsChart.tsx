@@ -63,7 +63,7 @@ export default function RiskFactorsChart() {
                                 hide
                             />
                             <Tooltip
-                                formatter={(value: number) => [value.toLocaleString(), 'Count']}
+                                formatter={(value) => [`${value?.toLocaleString()}`]}
                                 contentStyle={{
                                     backgroundColor: 'rgba(255, 255, 255, 0.95)',
                                     border: '1px solid #ccc',

@@ -1,4 +1,4 @@
-import Grid from "@mui/material/Grid";
+import Grid from '@mui/material/GridLegacy';
 import {Box, Card, CardContent, Chip, Divider, Link, Stack, Typography,} from "@mui/material";
 import CompareArrowsIcon from "@mui/icons-material/CompareArrows";
 import SecurityIcon from "@mui/icons-material/Security";

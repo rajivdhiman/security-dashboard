@@ -53,6 +53,6 @@ export async function getChunk(chunkNo: number): Promise<VulnerabilityRow[]> {
     const text = await res.text();
     const lines = text.split("\n").filter(Boolean);
 
-    // Parse JSONL lines (simple & effective for 5k-10k records)
+    // Parse JSONL lines
     return lines.map((line) => JSON.parse(line) as VulnerabilityRow);
 }

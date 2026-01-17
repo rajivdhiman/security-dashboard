@@ -1,4 +1,4 @@
-import Grid from "@mui/material/Grid";
+import Grid from '@mui/material/GridLegacy';
 import {Box, Card, CardContent, Chip, Stack, Typography} from "@mui/material";
 import LocalOfferIcon from "@mui/icons-material/LocalOffer";
 import CategoryIcon from "@mui/icons-material/Category";

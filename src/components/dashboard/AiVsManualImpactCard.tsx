@@ -108,7 +108,7 @@ export default function AiVsManualImpactCard() {
                                     <XAxis type="number" />
                                     <YAxis type="category" dataKey="name" width={0} hide />
                                     <Tooltip
-                                        formatter={(value: number) => value.toLocaleString()}
+                                        formatter={(value) => [`${value}`]}
                                         contentStyle={{
                                             backgroundColor: 'rgba(255, 255, 255, 0.95)',
                                             border: '1px solid #ccc',

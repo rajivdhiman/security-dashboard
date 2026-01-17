@@ -1,5 +1,5 @@
 import {useEffect, useMemo, useState} from "react";
-import Grid from "@mui/material/Grid";
+import Grid from '@mui/material/GridLegacy';
 import {
     Alert,
     Box,
