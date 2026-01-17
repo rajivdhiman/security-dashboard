@@ -17,7 +17,8 @@ This project is a comprehensive React (TypeScript) dashboard for exploring and 
 
 
 ### Compare View
-![Uploading Compare.png…]()
+<img width="1402" height="929" alt="Compare" src="https://github.com/user-attachments/assets/b712c9ca-dd15-4993-9611-bfbb7214f324" />
+
 
 
 ### Data handling
